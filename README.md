@@ -1,5 +1,3 @@
- Here’s a polished and detailed **README.md** draft for your project based on the notebook you shared:
-
 ---
 
 # 🧠 CNN Image Classification with PSO Hyperparameter Optimization
